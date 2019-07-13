@@ -1,5 +1,5 @@
 # DTHWebApplication
-# This is an readme file
+# This is an readme file. Adding this line for testing git hook
 ### DTHWebApplication Spring Boot Application for DEVOPS Training Demo
 
 ```
