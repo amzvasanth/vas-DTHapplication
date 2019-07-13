@@ -1,4 +1,4 @@
-# Use an official centos as a parent image
+# Use an official centos as a parent images
 FROM centos:latest
 
 # Set the working directory to /app
